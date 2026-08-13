@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🏡 Minnesotan and Eritrean <img src="https://cdn.britannica.com/09/09-050-E3476052/Flag-Eritrea.jpg" width="20" height="15"/>   -->  
 🚀 Working on demonstrating novel laser communication from space to ground with [PULSE-A](https://www.uchicagospaceprogram.org/cubesat)  
 🔭 Interested in Astronautics, Robotics, & Space Sciences  
-📝 Want to learn React, SQL, HTML, & MATLAB  
+📝 Want to learn React, SQL, & HMTL  
 💬 Ask me about Mario Kart Wii!  
 <!--✨ Fun fact -- I am a Chelsea and Real Madrid fan 🩵🤍-->
 
