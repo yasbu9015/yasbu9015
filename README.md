@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 🏫 CS & Math at UChicago, Class of 2029 <!--  
 🏡 Minnesotan and Eritrean <img src="https://cdn.britannica.com/09/09-050-E3476052/Flag-Eritrea.jpg" width="20" height="15"/>   -->  
-🔭 Interested in Astronautics, Robotics, & Space Sciences  
 🚀 Working on demonstrating novel laser communication from space to ground with [PULSE-A](https://www.uchicagospaceprogram.org/cubesat)  
-📝 Currently learning React, SQL, & HTML  
+🔭 Interested in Astronautics, Robotics, & Space Sciences  
+📝 Want to learn React, SQL, HTML, & MATLAB  
 💬 Ask me about Mario Kart Wii!  
 <!--✨ Fun fact -- I am a Chelsea and Real Madrid fan 🩵🤍-->
 
