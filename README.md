@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 
 **Software & Tools**  
 <img src = "https://cdn.svglogos.dev/logos/arduino.svg" width="40"/>
+<img src="https://cdn.svglogos.dev/logos/raspberry-pi.svg" width="40"/> 
 <!-- <img src = "https://cdn.svglogos.dev/logos/git-icon.svg" width="40"/> -->
-<img src = "https://cdn.svglogos.dev/logos/jupyter.svg" width="40"/>
-<img src="https://cdn.svglogos.dev/logos/raspberry-pi.svg" width="40"/>  
+<!-- <img src = "https://cdn.svglogos.dev/logos/jupyter.svg" width="40"/> -->
+
 
 ## 📫 Let's Connect
 💌 Email me: yasbu@uchicago.edu  
