@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🏫 CS & Math at UChicago, Class of 2029 
+🏫 CS & Math at UChicago, Class of 2029  
 🚀 Working on demonstrating novel laser communication from space to ground with [PULSE-A](https://www.uchicagospaceprogram.org/cubesat)  
 🔭 Interested in Astronautics, Robotics, & Space Sciences  
 📝 Want to learn React, SQL, & HMTL  
