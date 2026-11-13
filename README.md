@@ -1,4 +1,4 @@
-## Hello, I'm Yosan Asbu!
+## Hi, I'm Yosan!
 
 <!--
 **yasbu9015/yasbu9015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🏫 CS & Math at UChicago, Class of 2029 <!--  
-🏡 Minnesotan and Eritrean <img src="https://cdn.britannica.com/09/09-050-E3476052/Flag-Eritrea.jpg" width="20" height="15"/>   -->  
+🏫 CS & Math at UChicago, Class of 2029 
 🚀 Working on demonstrating novel laser communication from space to ground with [PULSE-A](https://www.uchicagospaceprogram.org/cubesat)  
 🔭 Interested in Astronautics, Robotics, & Space Sciences  
 📝 Want to learn React, SQL, & HMTL  
 💬 Ask me about Mario Kart Wii!  
-<!--✨ Fun fact -- I am a Chelsea and Real Madrid fan 🩵🤍-->
 
 ## 🛠️ Skills
 **Languages**  
@@ -33,8 +31,8 @@ Here are some ideas to get you started:
 **Software & Tools**  
 <img src = "https://cdn.svglogos.dev/logos/arduino.svg" width="40"/>
 <img src="https://cdn.svglogos.dev/logos/raspberry-pi.svg" width="40"/> 
-<!-- <img src = "https://cdn.svglogos.dev/logos/git-icon.svg" width="40"/> -->
-<!-- <img src = "https://cdn.svglogos.dev/logos/jupyter.svg" width="40"/> -->
+<img src = "https://cdn.svglogos.dev/logos/git-icon.svg" width="40"/>
+<img src = "https://cdn.svglogos.dev/logos/jupyter.svg" width="40"/>
 
 
 ## 📫 Let's Connect
