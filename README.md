@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🏫 CS & Math at UChicago, Class of 2029  
+🏫 CS & Math @ UChicago, 2029  
 🚀 Working on demonstrating novel laser communication from space to ground with [PULSE-A](https://www.uchicagospaceprogram.org/cubesat)  
 🔭 Interested in Astronautics, Robotics, & Space Sciences  
-📝 Want to learn React, SQL, & HMTL  
-💬 Ask me about Mario Kart Wii!  
+💬 Ask me about Mario Kart Wii!!!  
+<!--📝 Want to learn React, SQL, & HMTL -->
 
 ## 🛠️ Skills
 **Languages**  
@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.svglogos.dev/logos/raspberry-pi.svg" width="40"/> 
 <img src = "https://cdn.svglogos.dev/logos/git-icon.svg" width="40"/>
 <img src = "https://cdn.svglogos.dev/logos/jupyter.svg" width="40"/>
+<img src = "https://lh6.googleusercontent.com/proxy/ebpRFAeQ4JlUx7qLzrW8V3KYkgIKkRgjixhOcKxubLvjYk9OZKaG6i82mSf93BCPFQ3PVVZFoPFbJfrm" width="40"/>
+<img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-fusion-360-icon.png" width="40"/>
 
 
-## 📫 Let's Connect
+## Let's Connect
 💌 Email me: yasbu@uchicago.edu  
  <img src = "https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="15"/> [LinkedIn](https://www.linkedin.com/in/yosan-asbu-02910a217)
